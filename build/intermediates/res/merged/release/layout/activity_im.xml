@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_background_color_light">
+    <include
+        android:id="@+id/inc_im_top_bar"
+
+        layout="@layout/im_top_bar" />
+    <ListView
+        android:id="@+id/lv_im_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/inc_im_top_bar"
+        android:layout_above="@+id/ll_im_input_content"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"/>
+    <LinearLayout
+        android:id="@+id/ll_im_input_content"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:gravity="center_vertical"
+        android:background="@color/setting_samll_title"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_im_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/white"
+            android:layout_margin="@dimen/margin_10"
+            android:padding="@dimen/padding_5"
+            android:maxLines="4"
+            android:maxLength="200"
+            android:textColor="@color/setting_samll_title_text"
+            android:textSize="@dimen/text_content_size" />
+
+        <Button
+            android:id="@+id/btn_im_button_send"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_5"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_button_more_size"
+            android:background="@drawable/im_bottom_add"/>
+    </LinearLayout>
+
+</RelativeLayout>

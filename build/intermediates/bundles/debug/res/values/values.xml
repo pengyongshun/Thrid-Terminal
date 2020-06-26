@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="media_setting_fbl">
+        <item>1920 x 1080</item>
+        <item>1280 x 720</item>
+        <item>800 x 600</item>
+        <item>704 x 576</item>
+        <item>640 x 480</item>
+        <item>320 x 240</item>
+    </string-array>
+    <string-array name="media_setting_ml">
+        <item>1M</item>
+        <item>768K</item>
+        <item>512K</item>
+        <item>348K</item>
+        <item>256K</item>
+    </string-array>
+    <string-array name="media_setting_zl">
+        <item>60</item>
+        <item>30</item>
+        <item>25</item>
+        <item>20</item>
+        <item>15</item>
+    </string-array>
+    <color name="add_group_user_press">#FF1C59D0</color>
+    <color name="available_size_text_color">#d2d1d1</color>
+    <color name="black">#191919</color>
+    <color name="bottom_text_color">#2e79b8</color>
+    <color name="btn_bg">#e9e9e9</color>
+    <color name="button_normal">#e84958</color>
+    <color name="button_press">#b8212f</color>
+    <color name="clock_color">#ff0000</color>
+    <color name="color_0361a6">#51aef2</color>
+    <color name="color_108ee9">#108EE9</color>
+    <color name="color_157efb">#157efb</color>
+    <color name="color_6cccff">#6cccff</color>
+    <color name="color_808080">#808080</color>
+    <color name="color_99000000">#99000000</color>
+    <color name="color_app_main_color">#45aef8</color>
+    <color name="color_black">#000000</color>
+    <color name="color_dcdcdc">#dcdcdc</color>
+    <color name="color_ff0c72bc">#30a6fa</color>
+    <color name="color_ff292e3a">#FF292E3A</color>
+    <color name="color_ff2e365a">#FF2E365A</color>
+    <color name="color_ff333333">#FF333333</color>
+    <color name="color_ff8f99ab">#FF8F99AB</color>
+    <color name="color_ff999999">#FF999999</color>
+    <color name="color_ffeb5b58">#FFEB5B58</color>
+    <color name="color_fffc0b2d">#FFFC0B2D</color>
+    <color name="color_fffda100">#FFFDA100</color>
+    <color name="common_background_color_dark">#eeeeee</color>
+    <color name="common_background_color_light">#ffffff</color>
+    <color name="common_text_black">#333333</color>
+    <color name="common_text_color">#7d7d7d</color>
+    <color name="common_text_white">#ffffff</color>
+    <color name="contact_inline">#5ed5cd</color>
+    <color name="dialog_bg">#7f000000</color>
+    <color name="dialog_button_bg">#135ACE</color>
+    <color name="dialog_line">#DADADA</color>
+    <color name="gray_black">#cc000000</color>
+    <color name="gray_controller_black">#AA000000</color>
+    <color name="gray_red">#7c0000</color>
+    <color name="gray_text">#B2B2B2</color>
+    <color name="load_bg_color">#99000000</color>
+    <color name="lock_bg">#cc000000</color>
+    <color name="login_button_normal">#5ADFDA</color>
+    <color name="login_button_press">#1FA09A</color>
+    <color name="login_edit_text_color">#0f3552</color>
+    <color name="main_community_text_normal">#D9333333</color>
+    <color name="main_community_text_selected">#FF108EE9</color>
+    <color name="main_text_color">#0f88a2</color>
+    <color name="mapPopPoint0">#0000ff00</color>
+    <color name="mapPopPoint1">#ff00ff00</color>
+    <color name="message_content">#909090</color>
+    <color name="message_neme">#6C6C6C</color>
+    <color name="playwindow_background">#000000</color>
+    <color name="progress_text_color">#00eeee</color>
+    <color name="province_line_border">#D0D0D0</color>
+    <color name="red">#ff0000</color>
+    <color name="save_bg_color">#4871CC</color>
+    <color name="save_size_text_color">#5ed5cd</color>
+    <color name="select_background_color">#c4c4c4</color>
+    <color name="setting_samll_title">#E4E4E4</color>
+    <color name="setting_samll_title_text">#A9A9A9</color>
+    <color name="subline_color">#c5c5c5</color>
+    <color name="tab_line">#B6B6B6</color>
+    <color name="tab_text">#5ac9fd</color>
+    <color name="text_view_select">#5ed5cd</color>
+    <color name="title_color">#033155</color>
+    <color name="title_text_color">#ffffff</color>
+    <color name="topBar_btn">#44A7F3</color>
+    <color name="topbar_background">#2C81EC</color>
+    <color name="tou_ming">#D9D9D9</color>
+    <color name="tou_ming1">#f2ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="video_bg">#ba1d1d1d</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="CircleCameraLayout"><attr format="dimension" name="circle_camera_width"/><attr format="dimension" name="circle_camera_height"/><attr format="dimension" name="border_width"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="advanced_setting_edit_width">100dp</dimen>
+    <dimen name="btn_login_margin_bottom">20dp</dimen>
+    <dimen name="buttom_button_height">47dp</dimen>
+    <dimen name="buttom_button_width">330dp</dimen>
+    <dimen name="call_icon_width_or_height">44dp</dimen>
+    <dimen name="call_image_width_or_height">44dp</dimen>
+    <dimen name="chat_edit_margin">10dp</dimen>
+    <dimen name="chat_imagebutton_width">60dp</dimen>
+    <dimen name="contact_list_devider">1dp</dimen>
+    <dimen name="contact_margin">10dp</dimen>
+    <dimen name="cursor_height">2dp</dimen>
+    <dimen name="cursor_height2">1dp</dimen>
+    <dimen name="device_attribute_height">38dp</dimen>
+    <dimen name="dialog_edit_height">35dp</dimen>
+    <dimen name="dialog_margin">20dp</dimen>
+    <dimen name="directory_rect_margin_10">10dp</dimen>
+    <dimen name="directory_rect_margin_5">5dp</dimen>
+    <dimen name="divider_line_height">1dp</dimen>
+    <dimen name="file_thumbnail_width_height">90dp</dimen>
+    <dimen name="hide_audio_height">38dp</dimen>
+    <dimen name="hide_audio_margin">48dp</dimen>
+    <dimen name="label_width">67dp</dimen>
+    <dimen name="login_edittext_height">45dp</dimen>
+    <dimen name="login_edittext_width">282dp</dimen>
+    <dimen name="login_icon_margin">8dp</dimen>
+    <dimen name="login_margin_10">10dp</dimen>
+    <dimen name="login_margin_15">15dp</dimen>
+    <dimen name="login_padding_30">30dp</dimen>
+    <dimen name="login_params_edittext_height">42dp</dimen>
+    <dimen name="login_params_edittext_width">261dp</dimen>
+    <dimen name="logo_drawable_padding">20dp</dimen>
+    <dimen name="logo_margin_top">100dp</dimen>
+    <dimen name="lv_device_item_height">60dp</dimen>
+    <dimen name="lv_item_height">60dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_bar_top">20dp</dimen>
+    <dimen name="margin_calling_name_waitting">16dp</dimen>
+    <dimen name="margin_contacts_item">7dp</dimen>
+    <dimen name="margin_dialog_edge">50dp</dimen>
+    <dimen name="margin_edit_edit">23dp</dimen>
+    <dimen name="margin_edit_logo">80dp</dimen>
+    <dimen name="margin_larger_form">25dp</dimen>
+    <dimen name="margin_medium_form">10dp</dimen>
+    <dimen name="margin_screen_bottom">13dp</dimen>
+    <dimen name="margin_screen_edge">16dp</dimen>
+    <dimen name="margin_settings_item_edge">20dp</dimen>
+    <dimen name="margin_settings_item_large_edge">30dp</dimen>
+    <dimen name="p100">100dip</dimen>
+    <dimen name="p20">20dip</dimen>
+    <dimen name="p30">30dip</dimen>
+    <dimen name="p40">40dip</dimen>
+    <dimen name="p50">50dip</dimen>
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_edit_text_input">5dp</dimen>
+    <dimen name="preview_divider_width">14dp</dimen>
+    <dimen name="preview_iv_height">38dp</dimen>
+    <dimen name="preview_iv_width">46dp</dimen>
+    <dimen name="progress_label_width">22dp</dimen>
+    <dimen name="resource_list_height">70dp</dimen>
+    <dimen name="scene_button_height">40dp</dimen>
+    <dimen name="scene_button_width">40dp</dimen>
+    <dimen name="search_edit_height">38dp</dimen>
+    <dimen name="seek_labels_margin_top">7dp</dimen>
+    <dimen name="seek_used_height">20dp</dimen>
+    <dimen name="seek_used_width">40dp</dimen>
+    <dimen name="setting_item_height">60dp</dimen>
+    <dimen name="setting_item_title_height">20dp</dimen>
+    <dimen name="settings_item_vertical_margin">20dp</dimen>
+    <dimen name="tab_icon_text_1">0dp</dimen>
+    <dimen name="test">12sp</dimen>
+    <dimen name="text_app_name">16sp</dimen>
+    <dimen name="text_button_label_size">14sp</dimen>
+    <dimen name="text_button_more_size">16sp</dimen>
+    <dimen name="text_content_size">16sp</dimen>
+    <dimen name="text_margintop">5dp</dimen>
+    <dimen name="text_preview_size">12sp</dimen>
+    <dimen name="text_time_size">12sp</dimen>
+    <dimen name="text_title_size">18sp</dimen>
+    <dimen name="title_height">68dp</dimen>
+    <dimen name="topBar_button_height">60dp</dimen>
+    <dimen name="twelve">12sp</dimen>
+    <dimen name="video_ll_height">60dp</dimen>
+    <string name="add_metting">加入会议</string>
+    <string name="app_name">移动终端</string>
+    <string name="audio_resolution">音频优化</string>
+    <string name="audio_ring">语音对讲</string>
+    <string name="back">返回</string>
+    <string name="bind_device">绑定设备</string>
+    <string name="call_answer">接听</string>
+    <string name="call_cancel">取消</string>
+    <string name="call_hangup">挂断</string>
+    <string name="call_waitting">正在等待对方接受邀请...</string>
+    <string name="callin_prompt">来电设置</string>
+    <string name="callin_vibrate">启动震动</string>
+    <string name="callin_voice">启动铃声</string>
+    <string name="cancle">取消</string>
+    <string name="capture_bitrate">采集码率</string>
+    <string name="capture_framerate">采集帧率</string>
+    <string name="capture_height">采集高度</string>
+    <string name="capture_width">采集宽度</string>
+    <string name="chair_group">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bug@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bugda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达1","online":true,"role":"member","useId":"wwd1@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达2","online":true,"role":"member","useId":"wwd2@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达3","online":true,"role":"member","useId":"wwd3@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达4","online":true,"role":"member","useId":"wwd4@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达5","online":true,"role":"member","useId":"wwd5@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达6","online":true,"role":"member","useId":"wwd6@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员1","online":true,"role":"chairman","useId":"ces@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员3","online":true,"role":"member","useId":"sda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员4","online":true,"role":"member","useId":"asda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"ddd","online":true,"role":"member","useId":"ddd@core.ez"}],"creatMeeting":true,"groupId":"group","meetingID":"","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+    <string name="chair_single">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[],"creatMeeting":true,"groupId":"single","meetingID":"","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+    <string name="close">关闭</string>
+    <string name="code_ratio">码率</string>
+    <string name="config_params"><u>服务配置 >></u></string>
+    <string name="confirm">确定</string>
+    <string name="contacts">通讯录</string>
+    <string name="contacts_detial_send_messge">发送消息</string>
+    <string name="contacts_detial_video_call">视频呼叫</string>
+    <string name="contacts_detial_video_control">视频监控</string>
+    <string name="contacts_detial_voice_call">语音呼叫</string>
+    <string name="contacts_device_messge">设备信息</string>
+    <string name="contacts_people_messge">人员信息</string>
+    <string name="core_config">中心地址</string>
+    <string name="encode_config">编码配置</string>
+    <string name="encode_id">编码账号</string>
+    <string name="encode_port">编码端口</string>
+    <string name="encode_pwd">编码密码</string>
+    <string name="frame_ratio">帧率</string>
+    <string name="fz_meeting">分组会议</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_authcode">验证码</string>
+    <string name="hint_pwd">密码</string>
+    <string name="hint_username">用户名</string>
+    <string name="hz_enhance">画质增强</string>
+    <string name="image_file">抓拍文件</string>
+    <string name="input_ID">请输入会议ID</string>
+    <string name="input_theme">请输入会议主题</string>
+    <string name="ip">IP地址</string>
+    <string name="jr_metting">进入会议</string>
+    <string name="ks_metting">快速会议</string>
+    <string name="login">登录</string>
+    <string name="login_out">退出登录</string>
+    <string name="login_params">服务器地址</string>
+    <string name="loginface">人脸登录</string>
+    <string name="media_setting">媒体设置</string>
+    <string name="meeting_add_group">添加</string>
+    <string name="meeting_common">常规</string>
+    <string name="meeting_delete_group">删除分组</string>
+    <string name="meeting_description">描述的内容不能超过100字</string>
+    <string name="meeting_detail_group">会议详情</string>
+    <string name="meeting_edit_group">编辑分组</string>
+    <string name="meeting_group">会议分组</string>
+    <string name="meeting_group_add_users">添加成员</string>
+    <string name="meeting_group_delet">删除</string>
+    <string name="meeting_group_join_meeting">进入会议</string>
+    <string name="meeting_group_users">参会成员</string>
+    <string name="meeting_name">会议名称</string>
+    <string name="meeting_password">会议密码</string>
+    <string name="meeting_processing">拼接</string>
+    <string name="meeting_type">会议模式</string>
+    <string name="member_group">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bug@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bugda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达1","online":true,"role":"member","useId":"wwd1@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达2","online":true,"role":"member","useId":"wwd2@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达3","online":true,"role":"member","useId":"wwd3@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达4","online":true,"role":"member","useId":"wwd4@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达5","online":true,"role":"member","useId":"wwd5@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达6","online":true,"role":"member","useId":"wwd6@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员1","online":true,"role":"chairman","useId":"ces@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员3","online":true,"role":"member","useId":"sda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员4","online":true,"role":"member","useId":"asda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"ddd","online":true,"role":"member","useId":"ddd@core.ez"}],"creatMeeting":true,"groupId":"group","meetingID":"136176474","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+    <string name="member_single">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[],"creatMeeting":true,"groupId":"single","meetingID":"136176474","token":"","userID":"bug@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+    <string name="messge">消息</string>
+    <string name="metting">会议</string>
+    <string name="metting_ask">邀请</string>
+    <string name="metting_group_meeting_xq_title_add">编辑分组会议</string>
+    <string name="metting_group_meeting_xq_title_edit">新增分组会议</string>
+    <string name="metting_group_meeting_xq_title_look">分组会议详情</string>
+    <string name="metting_group_pop_title">请选择分组会议操作</string>
+    <string name="metting_pop_ask_people">邀请人员</string>
+    <string name="metting_pop_close">取消</string>
+    <string name="metting_pop_delet_metting">删除会议</string>
+    <string name="metting_pop_title">请选择预约会议的操作</string>
+    <string name="metting_pop_ychy">移除会议</string>
+    <string name="metting_pop_zdyf">指定发言</string>
+    <string name="metting_shfy">收回发言\t\t</string>
+    <string name="my">我的</string>
+    <string name="net_error">网络异常…</string>
+    <string name="offline">当前网络不通,请检查您的网络设置!</string>
+    <string name="open_voice">放音</string>
+    <string name="optimize_setting">优化设置</string>
+    <string name="photo_enhance">图像增强</string>
+    <string name="photo_gather">图像采集</string>
+    <string name="photo_resolution">图像优化</string>
+    <string name="playing_load_waitting">数据加载中…</string>
+    <string name="playing_request_waitting">请求处理中…</string>
+    <string name="port">端口号</string>
+    <string name="ptz_control">云台控制</string>
+    <string name="resolution_ratio">分辨率</string>
+    <string name="save">保存</string>
+    <string name="save_log">日志存储</string>
+    <string name="search_device_hint">输入IP地址过滤</string>
+    <string name="search_hint">搜索</string>
+    <string name="toast_core_IP_fmt_error">中心IP格式错误</string>
+    <string name="toast_core_IP_not_null">请填写中心IP地址</string>
+    <string name="video_call">视频呼叫</string>
+    <string name="video_file">录像文件</string>
+    <string name="voice_add">声音增益</string>
+    <string name="voice_denoise">音频降噪</string>
+    <string name="wdyy_metting">我的会议</string>
+    <string name="yy_metting">预约会议</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+    <style name="DarkTransParent" parent="android:style/Theme.Translucent">
+        <item name="android:windowBackground">@color/lock_bg</item>
+    </style>
+    <style name="Dialog_NoTitle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/dialog_bg</item>
+    </style>
+    <style name="MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+        <item name="android:gravity">bottom</item>
+    </style>
+    <style name="animAlpha">
+        <item name="android:windowEnterAnimation">@anim/alpha_in</item>
+        <item name="android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+    <style name="animRotate">
+        <item name="android:windowEnterAnimation">@anim/rotate_in</item>
+        <item name="android:windowExitAnimation">@anim/rotate_out</item>
+    </style>
+    <style name="animScale">
+        <item name="android:windowEnterAnimation">@anim/scale_in</item>
+        <item name="android:windowExitAnimation">@anim/scale_out</item>
+    </style>
+    <style name="animTranslate">
+        <item name="android:windowEnterAnimation">@anim/translate_in</item>
+        <item name="android:windowExitAnimation">@anim/translate_out</item>
+    </style>
+    <style name="custom_noActionbar_window_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent_background</item>
+    </style>
+    <style name="showLoadingDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去掉阴影 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="style_ptz_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">14sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="vOneMenuFragmentTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#222222</item>
+    </style>
+    <style name="vOneMenuFragmentminTextStyle">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#868686</item>
+    </style>
+</resources>

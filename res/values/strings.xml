@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">移动终端</string>
+
+    <!-- 通用文字 -->
+    <string name="back">返回</string>
+    <string name="cancle">取消</string>
+    <string name="save">保存</string>
+    <string name="close">关闭</string>
+    <string name="confirm">确定</string>
+    <string name="offline">当前网络不通,请检查您的网络设置!</string>
+
+    <!-- 登录界面 -->
+    <string name="login">登录</string>
+    <string name="loginface">人脸登录</string>
+    <string name="config_params"><u>服务配置 >></u></string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_pwd">密码</string>
+    <string name="hint_authcode">验证码</string>
+    <string name="toast_core_IP_not_null">请填写中心IP地址</string>
+    <string name="toast_core_IP_fmt_error">中心IP格式错误</string>
+    <!-- 配置界面 -->
+    <string name="login_params">服务器地址</string>
+    <string name="core_config">中心地址</string>
+    <string name="ip">IP地址</string>
+    <string name="port">端口号</string>
+    <string name="encode_config">编码配置</string>
+    <string name="encode_id">编码账号</string>
+    <string name="encode_pwd">编码密码</string>
+    <string name="encode_port">编码端口</string>
+
+    <string name="capture_width">采集宽度</string>
+    <string name="capture_height">采集高度</string>
+    <string name="capture_framerate">采集帧率</string>
+    <string name="capture_bitrate">采集码率</string>
+
+    <!-- 主界面 -->
+    <string name="messge">消息</string>
+    <string name="metting">会议</string>
+    <string name="contacts">通讯录</string>
+    <string name="my">我的</string>
+
+
+    <!-- 预览界面 -->
+    <string name="playing_request_waitting">请求处理中&#8230;</string>
+    <string name="playing_load_waitting">数据加载中&#8230;</string>
+
+    <!-- 查找界面 -->
+    <string name="search_hint">搜索</string>
+    <string name="net_error">网络异常&#8230;</string>
+    <string name="search_device_hint">输入IP地址过滤</string>
+
+    <!-- 呼叫界面 -->
+    <string name="call_answer">接听</string>
+    <string name="call_cancel">取消</string>
+    <string name="call_hangup">挂断</string>
+    <string name="call_waitting">正在等待对方接受邀请...</string>
+    <string name="video_call">视频呼叫</string>
+    <string name="audio_ring">语音对讲</string>
+
+    <!-- 文件夹界面 -->
+    <string name="image_file">抓拍文件</string>
+    <string name="video_file">录像文件</string>
+
+    <!-- 设置界面 -->
+    <string name="login_out">退出登录</string>
+    <string name="callin_prompt">来电设置</string>
+    <string name="callin_voice">启动铃声</string>
+    <string name="callin_vibrate">启动震动</string>
+    <string name="save_log">日志存储</string>
+    <string name="photo_enhance">图像增强</string>
+    <string name="hz_enhance">画质增强</string>
+    <string name="voice_add">声音增益</string>
+    <string name="voice_denoise">音频降噪</string>
+    <!--媒体设置-->
+    <string name="photo_gather">图像采集</string>
+    <string name="optimize_setting">优化设置</string>
+    <string name="resolution_ratio">分辨率</string>
+    <string name="frame_ratio">帧率</string>
+    <string name="code_ratio">码率</string>
+    <string name="audio_resolution">音频优化</string>
+    <string name="photo_resolution">图像优化</string>
+    <string name="media_setting">媒体设置</string>
+    <!-- 绑定界面 -->
+    <string name="bind_device">绑定设备</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--会议-->
+    <string name="add_metting">加入会议</string>
+    <string name="ks_metting">快速会议</string>
+    <string name="yy_metting">预约会议</string>
+    <string name="fz_meeting">分组会议</string>
+    <string name="wdyy_metting">我的会议</string>
+    <string name="jr_metting">进入会议</string>
+    <string name="input_ID">请输入会议ID</string>
+    <string name="input_theme">请输入会议主题</string>
+    <string name="metting_pop_title">请选择预约会议的操作</string>
+    <string name="metting_pop_ask_people">邀请人员</string>
+    <string name="metting_pop_delet_metting">删除会议</string>
+    <string name="metting_pop_close">取消</string>
+    <string name="metting_ask">邀请</string>
+    <string name="metting_pop_zdyf">指定发言</string>
+    <string name="metting_pop_ychy">移除会议</string>
+    <string name="metting_shfy">收回发言\t\t</string>
+
+    <string name="meeting_group">会议分组</string>
+    <string name="meeting_add_group">添加</string>
+    <string name="meeting_edit_group">编辑分组</string>
+    <string name="meeting_delete_group">删除分组</string>
+    <string name="meeting_detail_group">会议详情</string>
+    <string name="meeting_name">会议名称</string>
+    <string name="meeting_description">描述的内容不能超过100字</string>
+    <string name="meeting_type">会议模式</string>
+    <string name="meeting_common">常规</string>
+    <string name="meeting_processing">拼接</string>
+    <string name="meeting_password">会议密码</string>
+    <string name="meeting_group_users">参会成员</string>
+    <string name="meeting_group_add_users">添加成员</string>
+    <string name="meeting_group_join_meeting">进入会议</string>
+    <string name="meeting_group_delet">删除</string>
+    <string name="metting_group_pop_title">请选择分组会议操作</string>
+    <string name="metting_group_meeting_xq_title_add">编辑分组会议</string>
+    <string name="metting_group_meeting_xq_title_edit">新增分组会议</string>
+    <string name="metting_group_meeting_xq_title_look">分组会议详情</string>
+
+    <!--媒体设置/分辨率-->
+    <string-array name="media_setting_fbl">
+        <item>1920 x 1080</item>
+        <item>1280 x 720</item>
+        <item>800 x 600</item>
+        <item>704 x 576</item>
+        <item>640 x 480</item>
+        <item>320 x 240</item>
+    </string-array>
+
+    <!--媒体设置/帧率-->
+    <string-array name="media_setting_zl">
+        <item>60</item>
+        <item>30</item>
+        <item>25</item>
+        <item>20</item>
+        <item>15</item>
+    </string-array>
+
+    <!--媒体设置/码率-->
+    <string-array name="media_setting_ml">
+        <item>1M</item>
+        <item>768K</item>
+        <item>512K</item>
+        <item>348K</item>
+        <item>256K</item>
+    </string-array>
+    <!--通讯录-->
+    <string name="contacts_detial_send_messge">发送消息</string>
+    <string name="contacts_detial_video_call">视频呼叫</string>
+    <string name="contacts_detial_voice_call">语音呼叫</string>
+    <string name="contacts_people_messge">人员信息</string>
+    <string name="contacts_device_messge">设备信息</string>
+    <string name="contacts_detial_video_control">视频监控</string>
+    <string name="open_voice">放音</string>
+    <string name="ptz_control">云台控制</string>
+
+    <!--主席 群聊-->
+    <string name="chair_group">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bug@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bugda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达1","online":true,"role":"member","useId":"wwd1@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达2","online":true,"role":"member","useId":"wwd2@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达3","online":true,"role":"member","useId":"wwd3@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达4","online":true,"role":"member","useId":"wwd4@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达5","online":true,"role":"member","useId":"wwd5@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达6","online":true,"role":"member","useId":"wwd6@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员1","online":true,"role":"chairman","useId":"ces@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员3","online":true,"role":"member","useId":"sda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员4","online":true,"role":"member","useId":"asda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"ddd","online":true,"role":"member","useId":"ddd@core.ez"}],"creatMeeting":true,"groupId":"group","meetingID":"","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+
+    <!--成员 群聊-->
+        <string name="member_group">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bug@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"bug达","online":true,"role":"member","useId":"bugda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达1","online":true,"role":"member","useId":"wwd1@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达2","online":true,"role":"member","useId":"wwd2@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达3","online":true,"role":"member","useId":"wwd3@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达4","online":true,"role":"member","useId":"wwd4@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达5","online":true,"role":"member","useId":"wwd5@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"王巍达6","online":true,"role":"member","useId":"wwd6@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员1","online":true,"role":"chairman","useId":"ces@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员3","online":true,"role":"member","useId":"sda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"测试人员4","online":true,"role":"member","useId":"asda@core.ez"},{"choice":false,"meetingID":"wy11274566","name":"ddd","online":true,"role":"member","useId":"ddd@core.ez"}],"creatMeeting":true,"groupId":"group","meetingID":"136176474","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+
+    <!--主席 单聊-->
+        <string name="chair_single">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[],"creatMeeting":true,"groupId":"single","meetingID":"","token":"","userID":"ces@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+
+    <!--成员 单聊-->
+        <string name="member_single">
+{"broadcastNames":[{"key":"create_meeting","value":"android.broadcast.app.xt.create_meeting"},{"key":"member_refuse","value":"android.broadcast.app.xt.member_refuse"},{"key":"member_leave","value":"android.broadcast.app.xt.member_leave"},{"key":"chairman_invite","value":"android.broadcast.app.xt.chairman_invite"},{"key":"in_meeting_number","value":"android.broadcast.app.xt.in.meeting.number"}],"chairmanID":"ces@core.ez","contacts":[],"creatMeeting":true,"groupId":"single","meetingID":"136176474","token":"","userID":"bug@core.ez","userPwd":"","xt_id":"192.168.101.1","xt_port":"180"}
+    </string>
+
+
+</resources>

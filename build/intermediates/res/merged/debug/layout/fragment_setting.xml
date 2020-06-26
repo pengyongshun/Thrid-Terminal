@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_background_color_light"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_bar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_20"
+                android:layout_marginBottom="@dimen/margin_15"
+                android:layout_marginLeft="@dimen/margin_15"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/fragment_setting_username_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="张山"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"/>
+                <TextView
+                    android:id="@+id/fragment_setting_commpany_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:layout_marginTop="@dimen/margin_5"
+                    android:text="XX科技有限公司/研发部/测试组"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="@dimen/margin_5"
+                android:background="@color/setting_samll_title"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/margin_10"
+                android:textColor="@color/setting_samll_title_text"
+                android:textSize="@dimen/text_content_size" />
+
+            <!--服务配置-->
+            <RelativeLayout
+                android:id="@+id/fragment_setting_service_setting_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="服务配置"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+            <!--人脸设置-->
+            <RelativeLayout
+                android:id="@+id/fragment_setting_face_setting_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="人脸设置"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+            <!--媒体设置-->
+            <RelativeLayout
+                android:id="@+id/fragment_setting_media_setting_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="媒体设置"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+
+            <!--提醒设置-->
+            <RelativeLayout
+                android:id="@+id/fragment_setting_notif_setting_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="提醒设置"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+
+            <!--绑定设备-->
+            <RelativeLayout
+                android:id="@+id/fragment_setting_bind_device_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="绑定设备"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:id="@+id/fragment_setting_bind_device_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/fragment_setting_out_login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/buttom_button_height"
+        android:layout_marginBottom="@dimen/margin_20"
+        android:layout_marginEnd="@dimen/settings_item_vertical_margin"
+        android:layout_marginStart="@dimen/settings_item_vertical_margin"
+        android:layout_marginTop="@dimen/margin_10"
+        android:background="@drawable/button_background"
+        android:text="@string/login_out"
+        android:textColor="@color/title_text_color"
+        android:textSize="@dimen/text_content_size" />
+
+</LinearLayout>

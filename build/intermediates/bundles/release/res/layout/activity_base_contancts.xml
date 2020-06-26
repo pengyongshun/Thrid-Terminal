@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_background_color_light"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/activity_base_contancts_toobar_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/topbar_background" >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_bar_top"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/left_tv"
+                android:layout_width="@dimen/topBar_button_height"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/contact_margin"
+                android:contentDescription="@string/app_name"
+                android:gravity="center"
+                android:textColor="@color/topbar_button_color"
+                android:textSize="@dimen/text_content_size"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:id="@+id/left_iv"
+                android:layout_width="@dimen/topBar_button_height"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:contentDescription="@string/app_name"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/margin_bar_top"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/title_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:paddingTop="20dp"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/text_title_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/margin_bar_top"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/right_tv"
+                android:layout_width="@dimen/topBar_button_height"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/contact_margin"
+                android:contentDescription="@string/app_name"
+                android:gravity="center"
+                android:textColor="@color/topbar_button_color"
+                android:textSize="@dimen/text_content_size"
+                android:visibility="gone" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/directory_rect_margin_5"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dip"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/shape_input_text_bg">
+            <LinearLayout
+                android:id="@+id/activity_base_contancts_filter_serach_ll"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_search"
+                    android:layout_margin="@dimen/margin_5"
+                    android:layout_marginLeft="@dimen/margin_5"
+                    android:layout_gravity="center"/>
+            </LinearLayout>
+
+            <com.xt.mobile.terminal.view.ClearEditText
+                android:id="@+id/activity_base_contancts_filter_edit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/padding_10"
+                android:background="@null"
+
+                android:gravity="center_vertical"
+                android:hint="请输入人员关键字..."
+                android:singleLine="true"
+                android:textSize="15.0dip" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/activity_base_contancts_filter_close_tv"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/topbar_background"
+            android:textSize="14sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.6dp"
+        android:layout_marginBottom="@dimen/directory_rect_margin_5"
+        android:background="@color/gray_text" />
+
+    <TextView
+        android:id="@+id/activity_base_contancts__notice_tv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hide_audio_height"
+        android:background="@color/button_normal"
+        android:gravity="center_vertical"
+        android:paddingEnd="10dp"
+        android:paddingStart="10dp"
+        android:text="当前网络不通,请检查您的网络设置!"
+        android:textColor="@color/title_text_color"
+        android:textSize="@dimen/text_content_size"
+        android:visibility="gone"></TextView>
+
+    <com.xt.mobile.terminal.view.HorizontalListView
+        android:id="@+id/activity_base_contancts_directory_lv"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/common_background_color_dark"></com.xt.mobile.terminal.view.HorizontalListView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="@dimen/contact_margin"
+        android:layout_marginStart="@dimen/contact_margin"
+        android:layout_weight="1">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.xt.mobile.terminal.view.HSlidableListView
+                android:id="@+id/activity_base_contancts_contacts_lv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@color/subline_color"
+                android:dividerHeight="@dimen/contact_list_devider"
+                android:listSelector="@android:color/transparent"></com.xt.mobile.terminal.view.HSlidableListView>
+            <com.xt.mobile.terminal.view.HSlidableListView
+                android:id="@+id/activity_base_contancts_contacts_fitter_lv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@color/subline_color"
+                android:dividerHeight="@dimen/contact_list_devider"
+                android:listSelector="@android:color/transparent"
+                android:visibility="gone"></com.xt.mobile.terminal.view.HSlidableListView>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/activity_base_contancts_contacts_empty_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="亲，没有搜索到！"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+
+
+    <Button
+        android:id="@+id/activity_base_contancts_sure_btn"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="@dimen/directory_rect_margin_5"
+        android:layout_marginLeft="@dimen/p50"
+        android:layout_marginRight="@dimen/p50"
+        android:layout_marginTop="@dimen/directory_rect_margin_5"
+        android:background="@drawable/button_background"
+        android:text="@string/confirm"
+        android:textColor="@color/white" />
+
+</LinearLayout>

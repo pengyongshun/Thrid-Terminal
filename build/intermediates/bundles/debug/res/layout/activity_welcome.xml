@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".thridpart.WelcomeActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/logo"/>
+    <TextView
+        android:id="@+id/activity_wecome_count_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_20"
+        android:gravity="right"
+        android:text="30s"
+        android:layout_marginRight="@dimen/margin_10"
+        android:textColor="@color/playwindow_background"/>
+    <TextView
+        android:id="@+id/activity_wecome_join_result_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="正在进入中..."
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/playwindow_background"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/p100"/>
+
+</RelativeLayout>

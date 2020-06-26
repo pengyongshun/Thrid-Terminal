@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_height"
+    android:background="@color/topbar_background" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/margin_bar_top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/left_tv"
+            android:layout_width="@dimen/topBar_button_height"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/contact_margin"
+            android:contentDescription="@string/app_name"
+            android:gravity="center"
+            android:textColor="@color/topbar_button_color"
+            android:textSize="@dimen/text_content_size"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/left_iv"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@null"
+            android:contentDescription="@string/app_name"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/margin_bar_top"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:paddingTop="20dp"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_title_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/margin_bar_top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/right_tv"
+            android:layout_width="@dimen/topBar_button_height"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/contact_margin"
+            android:contentDescription="@string/app_name"
+            android:gravity="center"
+            android:textColor="@color/topbar_button_color"
+            android:textSize="@dimen/text_content_size"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/right_iv"
+            android:layout_width="@dimen/topBar_button_height"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:contentDescription="@string/app_name"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/resource_list_height"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_gravity="center_vertical">
+        <CheckBox
+            android:id="@+id/cb_select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/margin_10"
+            android:background="@drawable/setting_msg_checkbox"
+            android:button="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/ll_image"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/lv_item_height"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/cb_select" >
+
+            <ImageView
+                android:id="@+id/iv_profile"
+                android:layout_width="@dimen/call_icon_width_or_height"
+                android:layout_height="@dimen/call_icon_width_or_height"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:scaleType="centerInside" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/margin_10"
+            android:layout_toEndOf="@+id/ll_image"
+            android:layout_toStartOf="@+id/tv_status"
+            android:maxLines="2"
+            android:textColor="@color/common_text_color"
+            android:textSize="@dimen/text_content_size" />
+
+        <LinearLayout
+            android:id="@+id/item_join_metting_people_list_next_ll"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+            <ImageView
+                android:id="@+id/item_join_metting_people_list_next_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/icon_next_to_nor"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            android:layout_marginRight="@dimen/directory_rect_margin_10"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+</LinearLayout>

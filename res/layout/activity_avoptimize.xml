@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xt.mobile.terminal.ui.activity.AVOptimizeActivity">
+    <include layout="@layout/top_bar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/gray_text">
+        <Chronometer
+            android:id="@+id/activity_avoptimizeavoptimize_voice_gather_time_display"
+            android:layout_above="@+id/mic_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+        <ImageView
+            android:id="@+id/activity_avoptimizeavoptimize_voice_gather_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/selet_media_autdio_bg_btn"
+            android:layout_gravity="center|center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="按住说话，松手播放效果"
+            android:layout_marginTop="@dimen/margin_10"
+            android:gravity="center"/>
+    </LinearLayout>
+
+
+    <!--声音增益-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/margin_10">
+        <TextView
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/voice_add"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="@dimen/margin_5"
+            android:background="@color/gray_text"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/margin_5">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="弱"
+                android:textSize="12sp"/>
+            <SeekBar
+                android:id="@+id/activity_avoptimizeavoptimize_voice_add_skb"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:max="100"
+                style="@android:style/Widget.SeekBar"
+                android:layout_marginLeft="@dimen/margin_10"
+                android:layout_marginRight="@dimen/margin_10"
+                android:layout_gravity="center_vertical"
+                android:progress="0"
+                android:secondaryProgress="100"
+                android:progressDrawable="@drawable/seekbar_style"
+                android:thumb="@drawable/seekbar_thumb"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="强"
+                android:textSize="12sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="@dimen/margin_5"
+        android:background="@color/gray_text"/>
+
+
+    <!--启用音频降噪-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_weight="0.6"
+        android:layout_height="0dp"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/topBar_button_height"
+            android:gravity="center_vertical"
+            android:text="@string/voice_denoise"
+            android:textSize="@dimen/text_content_size" />
+
+        <CheckBox
+            android:id="@+id/activity_avoptimizeavoptimize_voice_denoise_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/setting_checkbox"
+            android:button="@null" />
+    </RelativeLayout>
+
+
+</LinearLayout>

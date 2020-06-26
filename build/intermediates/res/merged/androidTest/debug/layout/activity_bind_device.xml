@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_background_color_light" >
+
+    <include
+        android:id="@+id/topLayout"
+        layout="@layout/top_bar" />
+
+    <Button
+        android:id="@+id/bt_confirm"
+        android:layout_width="@dimen/buttom_button_width"
+        android:layout_height="@dimen/buttom_button_height"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:background="@drawable/button_background"
+        android:text="@string/confirm"
+        android:textColor="@color/title_text_color"
+        android:textSize="@dimen/text_content_size" />
+
+    <ListView
+        android:id="@+id/lv_devices"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bt_confirm"
+        android:layout_below="@id/topLayout"
+        android:background="@color/common_background_color_light"
+        android:divider="@color/subline_color"
+        android:dividerHeight="1dp"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none"></ListView>
+
+</RelativeLayout>

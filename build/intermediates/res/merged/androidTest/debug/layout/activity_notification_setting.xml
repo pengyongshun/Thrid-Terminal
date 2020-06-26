@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xt.mobile.terminal.ui.activity.NotificationSettingActivity">
+    <include layout="@layout/top_bar"/>
+    <!--启动震动-->
+    <RelativeLayout
+        android:id="@+id/activity_notifcation_setting_qdzd_rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/topBar_button_height"
+            android:gravity="center_vertical"
+            android:text="@string/callin_vibrate"
+            android:textColor="@color/common_text_color"
+            android:textSize="@dimen/text_content_size" />
+
+        <CheckBox
+            android:id="@+id/activity_notifcation_setting_qdzd_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/setting_checkbox"
+            android:button="@null" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/tab_line" />
+    </RelativeLayout>
+
+
+    <!--启动铃声-->
+    <RelativeLayout
+        android:id="@+id/activity_notifcation_setting_qdls_rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/topBar_button_height"
+            android:gravity="center_vertical"
+            android:text="@string/callin_voice"
+            android:textColor="@color/common_text_color"
+            android:textSize="@dimen/text_content_size" />
+
+        <CheckBox
+            android:id="@+id/activity_notifcation_setting_qdls_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/setting_checkbox"
+            android:button="@null" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/tab_line" />
+    </RelativeLayout>
+
+    <!--启动日志-->
+    <RelativeLayout
+        android:id="@+id/activity_notifcation_setting_save_log_rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/topBar_button_height"
+            android:gravity="center_vertical"
+            android:text="@string/callin_voice"
+            android:textColor="@color/common_text_color"
+            android:textSize="@dimen/text_content_size" />
+
+        <CheckBox
+            android:id="@+id/activity_notifcation_setting_save_log_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/setting_checkbox"
+            android:button="@null" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/tab_line" />
+    </RelativeLayout>
+</LinearLayout>

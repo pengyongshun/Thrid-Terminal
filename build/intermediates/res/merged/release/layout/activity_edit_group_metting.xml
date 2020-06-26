@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.xt.mobile.terminal.ui.activity.GroupMeetingActivity">
+
+    <include layout="@layout/top_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10"
+        android:paddingTop="@dimen/margin_10">
+
+        <TextView
+            android:layout_width="@dimen/label_width"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:gravity="center_vertical"
+            android:text="@string/meeting_name"
+            android:textColor="@color/common_text_black"
+            android:textSize="@dimen/text_content_size" />
+
+        <EditText
+            android:id="@+id/activity_group_detail_edit_meeting_name_et"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_weight="1"
+            android:background="@drawable/login_params_edit_background"
+            android:gravity="center_vertical"
+            android:hint="@string/meeting_name"
+            android:paddingLeft="@dimen/margin_5"
+            android:textSize="@dimen/text_content_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10"
+        android:paddingTop="@dimen/margin_10"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="@dimen/label_width"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:gravity="center_vertical"
+            android:text="@string/meeting_password"
+            android:textColor="@color/common_text_black"
+            android:textSize="@dimen/text_content_size" />
+
+        <CheckBox
+            android:id="@+id/activity_group_detail_edit_password_meeting_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:background="@drawable/selet_meeting_type_checkbox"
+            android:button="@null" />
+
+        <EditText
+            android:id="@+id/activity_group_detail_edit_password_meeting_et"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_weight="1"
+            android:background="@drawable/login_params_edit_background"
+            android:gravity="center_vertical"
+            android:hint="@string/meeting_password"
+            android:paddingLeft="@dimen/margin_5"
+            android:textSize="@dimen/text_content_size" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/margin_10"
+        android:paddingRight="@dimen/margin_10"
+        android:paddingTop="@dimen/margin_10"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tvMeetingType"
+            android:layout_width="@dimen/label_width"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:gravity="center_vertical"
+            android:text="@string/meeting_type"
+            android:textColor="@color/common_text_color"
+            android:textSize="@dimen/text_content_size" />
+
+        <RadioGroup
+            android:id="@+id/activity_group_detail_edit_meeting_type_rgp"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/login_params_edittext_height"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_toRightOf="@+id/tvMeetingType"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/activity_group_detail_edit_type_rgp_nom_rb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/margin_20"
+                android:background="@android:color/transparent"
+                android:button="@null"
+                android:drawableLeft="@drawable/selet_meeting_type_checkbox"
+                android:drawablePadding="@dimen/margin_5"
+                android:gravity="center_vertical"
+                android:text="@string/meeting_common"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+
+            <RadioButton
+                android:id="@+id/activity_group_detail_edit_type_rgp_pj_rb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@android:color/transparent"
+                android:button="@null"
+                android:drawableLeft="@drawable/selet_meeting_type_checkbox"
+                android:drawablePadding="@dimen/margin_5"
+                android:gravity="center_vertical"
+                android:text="@string/meeting_processing"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+        </RadioGroup>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="@dimen/label_width"
+        android:layout_height="@dimen/login_params_edittext_height"
+        android:layout_marginLeft="@dimen/margin_10"
+        android:layout_marginTop="@dimen/margin_10"
+        android:gravity="center_vertical"
+        android:text="会议简介"
+        android:textColor="@color/common_text_black"
+        android:textSize="@dimen/text_content_size" />
+
+    <EditText
+        android:id="@+id/activity_group_detail_edit_content_et"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="@dimen/margin_10"
+        android:layout_marginRight="@dimen/margin_10"
+        android:background="@drawable/login_params_edit_background"
+        android:gravity="top|left"
+        android:hint="@string/meeting_description"
+        android:paddingLeft="@dimen/margin_5"
+        android:textSize="@dimen/text_content_size" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/margin_10"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginRight="@dimen/margin_10"
+            android:background="@color/topbar_background"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/margin_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/margin_10"
+                android:paddingLeft="@dimen/margin_10"
+                android:paddingTop="@dimen/margin_10"
+                android:text="@string/meeting_group_users"
+                android:textColor="@color/common_text_black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/activity_group_detail_edit_add_people_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/selet_add_group_user"
+                android:padding="@dimen/margin_10"
+                android:text="@string/meeting_group_add_users"
+                android:textColor="@color/dialog_button_color"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginRight="@dimen/margin_10">
+
+            <ListView
+                android:id="@+id/activity_group_detail_edit_people_lv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:listSelector="@android:color/transparent" />
+
+            <TextView
+                android:id="@+id/activity_group_detail_edit_people_empty_tv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="目前暂无成员"
+                android:textColor="@color/common_text_black"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

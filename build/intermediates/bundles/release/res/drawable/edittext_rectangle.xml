@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- android:shape=["rectangle" | "oval" | "line" | "ring"] -->
+    <!-- 边角（corners）,渐变色（gradrent）,大小（size），边距（padding） ,填充（solid）,扫边（stoke） -->
+    
+    <!-- 内部颜色 -->
+    <solid android:color="#ffffff" />
+    <!-- 边框颜色 -->
+    <stroke
+        android:dashWidth="0.5dp"
+        android:width="0.5dp"
+        android:color="#cccccc" />
+    <!-- 弧形角度 -->
+    <corners
+        android:bottomLeftRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:topLeftRadius="2dp"
+        android:topRightRadius="2dp" />
+
+</shape>

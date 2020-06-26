@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/item_join_metting_people_list_selet_cb"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:padding="@dimen/padding_5"
+            android:visibility="gone" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/icon_my_pr" />
+        <TextView
+            android:id="@+id/item_join_metting_people_list_name_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/directory_rect_margin_5"
+            android:layout_weight="1"
+            android:text="张三"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/item_join_metting_people_list_delet_ll"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="@dimen/directory_rect_margin_5"
+            android:background="@drawable/shape_jr_metting_item_bg"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/meeting_group_delet"
+                android:textColor="@color/topbar_background" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/item_join_metting_people_list_rylx_ll"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="@dimen/directory_rect_margin_5"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/item_join_metting_people_list_rylx_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:textColor="@color/topbar_background" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

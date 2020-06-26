@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\tab_item_text_color.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\tab_item_text_color.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\topbar_button_color.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\topbar_button_color.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_808080_white.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_808080_white.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\btn_red_text.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\btn_red_text.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\advanced_button_color.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\advanced_button_color.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_108ee9_0361a6.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_108ee9_0361a6.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_108ee9_ff0c72bc.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_108ee9_ff0c72bc.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_45aef8_b4defc.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_45aef8_b4defc.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\dialog_button_color.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\dialog_button_color.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_808080_999.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_808080_999.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\text_color_157efb_white.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\color\\text_color_157efb_white.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

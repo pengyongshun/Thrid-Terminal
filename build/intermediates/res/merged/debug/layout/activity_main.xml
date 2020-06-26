@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:baselineAligned="false"
+    android:orientation="vertical" >
+
+    <com.xt.mobile.terminal.widget.NoScrollViewPager
+        android:id="@+id/vp_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </com.xt.mobile.terminal.widget.NoScrollViewPager>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/tab_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp" >
+
+        <LinearLayout
+            android:id="@+id/activity_main_messge_ll"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="0dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/activity_main_messge_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/icon_messge_nor" />
+
+            <TextView
+                android:id="@+id/activity_main_messge_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/tab_icon_text_1"
+                android:text="@string/messge"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/activity_main_metting_ll"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="0dp" >
+
+            <ImageView
+                android:id="@+id/activity_main_metting_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/icon_metting_nor" />
+
+            <TextView
+                android:id="@+id/activity_main_metting_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/tab_icon_text_1"
+                android:text="@string/metting"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/activity_main_contacts_ll"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="0dp" >
+
+            <ImageView
+                android:id="@+id/activity_main_contacts_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/icon_content_nor" />
+
+            <TextView
+                android:id="@+id/activity_main_contacts_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/tab_icon_text_1"
+                android:text="@string/contacts"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/activity_main_my_ll"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="0dp" >
+
+            <ImageView
+                android:id="@+id/activity_main_my_iv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/icon_my_nor" />
+
+            <TextView
+                android:id="@+id/activity_main_my_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/tab_icon_text_1"
+                android:text="@string/my"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

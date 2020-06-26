@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xt.mobile.terminal.ui.activity.MediaSettingActivity">
+    <include layout="@layout/top_bar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@color/setting_samll_title"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/margin_10"
+                android:text="@string/photo_gather"
+                android:textColor="@color/setting_samll_title_text"
+                android:textSize="@dimen/text_content_size" />
+
+            <!--分辨率-->
+            <RelativeLayout
+                android:id="@+id/activity_media_setting_fbl_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/resolution_ratio"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+            <!--帧率-->
+            <RelativeLayout
+                android:id="@+id/activity_media_setting_zl_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/frame_ratio"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+            <!--码率-->
+            <RelativeLayout
+                android:id="@+id/activity_media_setting_ml_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/code_ratio"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+            </RelativeLayout>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@color/setting_samll_title"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/margin_10"
+                android:text="@string/optimize_setting"
+                android:textColor="@color/setting_samll_title_text"
+                android:textSize="@dimen/text_content_size" />
+
+            <!--音频优化-->
+            <RelativeLayout
+                android:id="@+id/activity_media_setting_ypyh_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/audio_resolution"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/tab_line" />
+            </RelativeLayout>
+
+            <!--图像优化-->
+            <RelativeLayout
+                android:id="@+id/activity_media_setting_txyh_rl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/photo_resolution"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/topBar_button_height"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:drawableRight="@drawable/bt_arrow_right"
+                    android:drawablePadding="10dp"
+                    android:gravity="center_vertical"
+                    android:text=""
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

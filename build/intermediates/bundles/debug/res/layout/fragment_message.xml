@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/common_background_color_light"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/topbar_background"
+        android:orientation="vertical" >
+
+        <include layout="@layout/top_bar" />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:visibility="gone">
+            <com.xt.mobile.terminal.view.ClearEditText
+                android:id="@+id/cet_message_query"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/message_query_input_bg"
+                android:drawableLeft="@drawable/ic_search"
+                android:drawablePadding="5dp"
+                android:gravity="center_vertical"
+                android:hint="请输入关键字"
+                android:maxLength="20"
+                android:maxLines="1"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:singleLine="true"
+                android:textColor="@color/playwindow_background"
+                android:textColorHint="@color/gray_text"
+                android:textSize="15.0dip" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/fragment_message_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+        <TextView
+            android:id="@+id/fragment_messge_empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="目前暂无分组"
+            android:textColor="@color/playwindow_background"
+            android:textSize="16sp" />
+
+</LinearLayout>

@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_edit_group_metting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_edit_group_metting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_media_setting_lv.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_media_setting_lv.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_avoptimize.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_avoptimize.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_message_sessions.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_message_sessions.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_request_net_demo.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_request_net_demo.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_media_setting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_media_setting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_message_members.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_message_members.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\fragment_message.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_join_metting_people_list.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_join_metting_people_list.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\dialog_text.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\loading_tip.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\loading_tip.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_base_contancts.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_base_contancts.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_im_messages.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_im_messages.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\im_top_bar.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\im_top_bar.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_contants_demo.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_contants_demo.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_notification_setting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_notification_setting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\cus_adialog_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\cus_adialog_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_my_metting_lv.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_my_metting_lv.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_contacts_detial.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_contacts_detial.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\widget_view_send_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\widget_view_send_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\lv_scroll_directory_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\lv_scroll_directory_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\fragment_setting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\fragment_contacts.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_contacts_detial_device.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_contacts_detial_device.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_message_member.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_message_member.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_resolution_ratio.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_resolution_ratio.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_metting_contancts_ask_lv.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_metting_contancts_ask_lv.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\dialog_authentication_success.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\dialog_authentication_success.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_group_metting_lv.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_group_metting_lv.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_group_contact.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_group_contact.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\top_bar_message.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\top_bar_message.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\popup_list_metting_more.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\popup_list_metting_more.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\lyt_date_time_picker.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\lyt_date_time_picker.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_calling.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_calling.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\cus_adialog_text_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\cus_adialog_text_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\top_bar.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\lv_contacts_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\lv_contacts_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\popup_list_group_metting_more.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\popup_list_group_metting_more.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\item_join_metting_people_list_lv.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\item_join_metting_people_list_lv.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\popup_list_join_metting_edit.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\popup_list_join_metting_edit.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_welcome.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\lv_bind_device_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\lv_bind_device_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_thrid_calling.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_thrid_calling.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\float_capture_window.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\float_capture_window.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_vedio_control_detial.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_vedio_control_detial.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_login_params.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_login_params.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\mydialog_call.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\mydialog_call.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_thrid_join_list.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_thrid_join_list.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_yymetting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_yymetting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\fragment_metting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\fragment_metting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_face_login.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_face_login.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_photo_optimize.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_photo_optimize.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_playing.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_playing.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_bind_device.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_bind_device.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_im.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_im.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\top_bar_contact.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\top_bar_contact.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_group_metting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_group_metting.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\my_dialog.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\layout\\activity_vedio_metting.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\layout\\activity_vedio_metting.xml"
+    }
+]

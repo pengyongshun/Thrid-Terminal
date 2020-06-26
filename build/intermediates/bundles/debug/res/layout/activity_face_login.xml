@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".face.ui.FaceLoginActivity">
+   <include layout="@layout/top_bar"/>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="#FF292E3A"
+       android:orientation="vertical">
+
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="70dp">
+
+         <ImageView
+             android:layout_width="260dp"
+             android:layout_height="260dp"
+             android:layout_centerInParent="true"
+             android:src="@drawable/bg_quan_view" />
+
+         <com.xt.mobile.terminal.face.capture.CircleCameraLayout
+             android:id="@+id/activity_camera_layout"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:clipChildren="true"
+             app:border_width="10dp"
+             app:circle_camera_width="250dp" />
+         <ImageView
+             android:id="@+id/scan_line"
+             android:layout_width="250dp"
+             android:layout_height="30dp"
+             android:layout_centerHorizontal="true"
+             android:scaleType="centerCrop"
+             android:src="@drawable/icon_scan_line" />
+      </RelativeLayout>
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="50dp"
+          android:gravity="center"
+          android:text="请将脸部对准手机前置摄像头"
+          android:textColor="#fff"
+          android:textSize="17sp"
+          android:visibility="visible" />
+
+      <ImageView
+          android:id="@+id/image"
+          android:layout_width="200dp"
+          android:layout_height="200dp"
+          android:visibility="gone" />
+   </LinearLayout>
+</LinearLayout>

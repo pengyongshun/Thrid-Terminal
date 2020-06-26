@@ -1,0 +1,331 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_background_color_light"
+    android:orientation="vertical"
+    tools:context=".ui.activity.ActivityLogin" >
+
+    <include layout="@layout/top_bar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/rl_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true" >
+
+            <TextView
+                android:id="@+id/block_core"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/title_height"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:gravity="center"
+                android:text="@string/core_config"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+
+            <TextView
+                android:id="@+id/core_divider_line"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/divider_line_height"
+                android:layout_below="@id/block_core"
+                android:layout_marginBottom="@dimen/margin_screen_edge"
+                android:background="@color/subline_color" />
+
+            <TextView
+                android:id="@+id/label_core_ip"
+                android:layout_width="@dimen/label_width"
+                android:layout_height="@dimen/login_params_edittext_height"
+                android:layout_below="@id/core_divider_line"
+                android:layout_marginBottom="@dimen/margin_screen_edge"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:gravity="start|center_vertical"
+                android:text="@string/ip"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+
+            <EditText
+                android:id="@+id/et_core_ip"
+                android:layout_width="@dimen/login_params_edittext_width"
+                android:layout_height="@dimen/login_params_edittext_height"
+                android:layout_below="@id/core_divider_line"
+                android:layout_marginBottom="@dimen/margin_screen_edge"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                android:layout_toEndOf="@id/label_core_ip"
+                android:background="@drawable/login_params_edit_background"
+                android:digits="0123456789."
+                android:gravity="center"
+                android:hint="@string/ip"
+                android:inputType="number"
+                android:labelFor="@id/et_core_ip" />
+
+            <TextView
+                android:id="@+id/label_core_port"
+                android:layout_width="@dimen/label_width"
+                android:layout_height="@dimen/login_params_edittext_height"
+                android:layout_below="@id/label_core_ip"
+                android:layout_marginBottom="@dimen/margin_screen_edge"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:gravity="start|center_vertical"
+                android:text="@string/port"
+                android:textColor="@color/common_text_color"
+                android:textSize="@dimen/text_content_size" />
+
+            <EditText
+                android:id="@+id/et_core_port"
+                android:layout_width="@dimen/login_params_edittext_width"
+                android:layout_height="@dimen/login_params_edittext_height"
+                android:layout_below="@id/et_core_ip"
+                android:layout_marginBottom="@dimen/margin_screen_edge"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                android:layout_toEndOf="@id/label_core_port"
+                android:background="@drawable/login_params_edit_background"
+                android:gravity="center"
+                android:hint="@string/port"
+                android:inputType="number"
+                android:labelFor="@id/et_core_port" />
+
+            <RelativeLayout
+                android:id="@+id/encodeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/et_core_port"
+                android:focusable="true"
+                android:focusableInTouchMode="true" >
+
+                <TextView
+                    android:id="@+id/block_encode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/title_height"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="center"
+                    android:text="@string/encode_config"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <TextView
+                    android:id="@+id/encode_divider_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/divider_line_height"
+                    android:layout_below="@id/block_encode"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:background="@color/subline_color" />
+
+                <TextView
+                    android:id="@+id/label_encode_id"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/encode_divider_line"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/encode_id"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_encode_id"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/encode_divider_line"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_id"
+                    android:background="@drawable/login_params_edit_background"
+                    android:digits="0123456789."
+                    android:gravity="center"
+                    android:hint="@string/encode_id"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_ip" />
+
+                <TextView
+                    android:id="@+id/label_encode_pwd"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_encode_id"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/encode_pwd"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_encode_pwd"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/et_encode_id"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/encode_pwd"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_encode_port"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_encode_pwd"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/encode_port"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_encode_port"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/et_encode_pwd"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/encode_port"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_capture_width"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_encode_port"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/capture_width"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_capture_width"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_encode_port"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/capture_width"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_capture_height"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_width"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/capture_height"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_capture_height"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_width"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/capture_height"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_capture_FrameRate"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_height"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/capture_framerate"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_capture_FrameRate"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_height"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/capture_framerate"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_capture_BitRate"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_FrameRate"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="@string/capture_bitrate"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_capture_BitRate"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_FrameRate"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/capture_bitrate"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+                
+                <TextView
+                    android:id="@+id/label_capture_CameraId"
+                    android:layout_width="@dimen/label_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_BitRate"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:gravity="start|center_vertical"
+                    android:text="CameraId"
+                    android:textColor="@color/common_text_color"
+                    android:textSize="@dimen/text_content_size" />
+
+                <EditText
+                    android:id="@+id/et_capture_CameraId"
+                    android:layout_width="@dimen/login_params_edittext_width"
+                    android:layout_height="@dimen/login_params_edittext_height"
+                    android:layout_below="@id/label_capture_BitRate"
+                    android:layout_marginBottom="@dimen/margin_screen_edge"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:layout_toEndOf="@id/label_encode_pwd"
+                    android:background="@drawable/login_params_edit_background"
+                    android:gravity="center"
+                    android:hint="@string/encode_port"
+                    android:inputType="number"
+                    android:labelFor="@id/et_core_port" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

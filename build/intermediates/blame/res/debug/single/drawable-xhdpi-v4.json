@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_left_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_arrow_left_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ptz_open_voice_pressed.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ptz_open_voice_pressed.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_screen_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_screen_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ask_people_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_ask_people_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ks_metting_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_ks_metting_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_device_offline.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_device_offline.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_btn_close.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_btn_close.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_contacts_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_contacts_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_scan_line.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_scan_line.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cy_jsfy.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cy_jsfy.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_close.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_vedio_close.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_open_voice.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_open_voice.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_close_voice.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_close_voice.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_swtich_close.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\btn_swtich_close.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cancel_call_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cancel_call_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\select_selected.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\select_selected.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_msg_bg_sender.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_msg_bg_sender.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_add_metting_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_add_metting_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_content_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_content_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cammer_switch.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cammer_switch.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_sh_fy_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_sh_fy_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_voice.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_voice.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delet.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_delet.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_user_offline.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_user_offline.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_people.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_people.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_right_add.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_right_add.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_btn_bg.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_btn_bg.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_close_white_24dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_add_metting_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_add_metting_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\select_default.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\select_default.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ptz_control_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ptz_control_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_screen_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_screen_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_audio_close.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_audio_close.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_sh_fy_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_sh_fy_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_autdio_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_autdio_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_messge_contacts.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_messge_contacts.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_my_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_my_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_btn_search_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_btn_search_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_vedio.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_vedio.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_preview_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_preview_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ptz_control_pressed.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ptz_control_pressed.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_messge_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_messge_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_autdio_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_autdio_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cancel_call_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cancel_call_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cloud_control_small.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cloud_control_small.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_people_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_people_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_more_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_more_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_setting_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_setting_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_msg_bg_self.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_msg_bg_self.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\photo_picbg.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\photo_picbg.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_check_black_36dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ic_check_black_36dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_answer_call_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_answer_call_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_partment.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_partment.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_quan_view.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\bg_quan_view.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_chexbox_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_chexbox_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_yy_metting_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_yy_metting_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_answer_call_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_answer_call_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_msg_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\setting_msg_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_settings_backup_restore_black_36dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ic_settings_backup_restore_black_36dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_setting_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_setting_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\photo_picbg2.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\photo_picbg2.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\preview_btn_camera_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\preview_btn_camera_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_device.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_device.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cy_sqfy.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cy_sqfy.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_background.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_metting_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_metting_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ask_people_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_ask_people_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_metting_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_metting_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mic_white_24dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_vedio_open.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_vedio_open.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\preview_btn_camera_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\preview_btn_camera_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_device_online.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_device_online.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_people_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_people_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_bottom_add.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_bottom_add.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_right_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_arrow_right_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_group_meeting_list.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_group_meeting_list.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_msg_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\setting_msg_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cloud_control_small_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cloud_control_small_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_messge_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_messge_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_vedio_control.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_vedio_control.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_top_bar_back_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_top_bar_back_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cloud_control_big.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_cloud_control_big.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_audio_open.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_audio_open.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_top_bar_back_pressed.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_top_bar_back_pressed.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_undo_black_24dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_group_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_group_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_left_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_arrow_left_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_arrow_right_press.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_arrow_right_press.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_user_online.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_user_online.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_switch_open.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\btn_switch_open.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_ks_metting_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_ks_metting_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\im_group_click.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\im_group_click.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_content_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_content_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_chexbox_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_chexbox_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ptz_open_voice_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\ptz_open_voice_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_contacts_detial_messge.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_contacts_detial_messge.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_yy_metting_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_yy_metting_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\selet_answer_call_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\selet_answer_call_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_btn_search_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\contact_btn_search_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_my_pr.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_my_pr.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_preview_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_preview_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_contacts_normal.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\tab_contacts_normal.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_more_nor.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_more_nor.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_btn_ok.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\icon_btn_ok.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load.png",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable-xhdpi\\load.png"
+    }
+]

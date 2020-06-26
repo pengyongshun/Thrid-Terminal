@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_screen_share_center_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_screen_share_center_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_ask_people_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_ask_people_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\calling_audio_back.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\calling_audio_back.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\edittext_rectangle.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\edittext_rectangle.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\shape_close_btn_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\shape_close_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\cursor_color2.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\cursor_color2.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_screen_share_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_screen_share_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\ptz_content_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\ptz_content_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_people_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_people_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\preview_checkbox.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\preview_checkbox.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\im_top_bar_back.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\im_top_bar_back.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_record_closed_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_record_closed_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_ks_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_ks_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_make_more_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_make_more_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\shape_my_metting_item_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\shape_my_metting_item_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\my_preview_invisiable_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\my_preview_invisiable_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\login_params_edit_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\login_params_edit_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_cancle_call_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_cancle_call_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_close_audio_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_close_audio_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\chat_edittext_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\chat_edittext_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\setting_checkbox.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\setting_checkbox.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_list_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_list_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\setting_msg_checkbox.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\setting_msg_checkbox.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\btn_contact_search.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\btn_contact_search.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_im_group_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_im_group_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\login_params_back.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\login_params_back.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\shape_jr_metting_item_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\shape_jr_metting_item_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_add_group_user.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_add_group_user.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selector_ptz_control.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selector_ptz_control.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dialog_link_manager.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bg_dialog_link_manager.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_take_photo_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_take_photo_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\video_btn_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\video_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\cursor_color.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\cursor_color.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_add_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_add_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\call_answer_receive.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\call_answer_receive.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\load_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\load_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_open_vedio_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_open_vedio_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\popwin_map_text.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\popwin_map_text.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selector_ptz_close_voice.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selector_ptz_close_voice.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\button_normal_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\button_normal_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_thumb.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_button_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\dialog_button_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\search_edit_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\search_edit_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\btn_red_remove_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\btn_red_remove_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_val.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_record_open_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_record_open_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_yy_metting_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_yy_metting_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\mic_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\mic_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_arrow_right.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_arrow_right.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\mic_pressed_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\mic_pressed_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\button_press_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\button_press_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\button_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\login_button.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_item_next_to_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_item_next_to_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_arrow_left.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_arrow_left.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\call_answer_refuse.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\call_answer_refuse.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_play_on_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_play_on_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_media_autdio_bg_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_media_autdio_bg_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_style.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\shape_input_text_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\shape_input_text_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\my_preview_visiable_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\my_preview_visiable_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\im_input_text_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\im_input_text_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\mydialog_call_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\mydialog_call_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selector_ptz_open_voice.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selector_ptz_open_voice.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\playwindow_background.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\playwindow_background.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\ptz_cloud_controller_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\ptz_cloud_controller_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bt_delete_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bt_delete_drawable.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_meeting_type_checkbox.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_meeting_type_checkbox.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\message_query_input_bg.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\message_query_input_bg.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\selet_metting_shfy_btn.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\selet_metting_shfy_btn.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\popwin_scene_text.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\popwin_scene_text.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\loading.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\login_button_face.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\login_button_face.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_bg_drawable.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\drawable\\seekbar_bg_drawable.xml"
+    }
+]

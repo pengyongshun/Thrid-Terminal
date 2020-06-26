@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\translate_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\translate_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\alpha_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\rotate_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\scale_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\rotate_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\scale_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\translate_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\translate_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\alpha_in.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\aar\\Thrid Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\aar\\Thrid Mobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\aar\\Thrid Mobile\\res\\anim\\push_left_in.xml"
+    }
+]

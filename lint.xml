@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ButtonStyle" severity="ignore" />
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="IconDensities" severity="ignore" />
+    <issue id="IconDuplicatesConfig" severity="ignore" />
+    <issue id="IconMissingDensityFolder" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="LabelFor" severity="ignore" />
+    <issue id="Overdraw" severity="ignore" />
+    <issue id="Registered" severity="ignore" />
+    <issue id="RtlHardcoded" severity="ignore" />
+    <issue id="RtlSymmetry" severity="ignore" />
+    <issue id="UseCompoundDrawables" severity="ignore" />
+</lint>
