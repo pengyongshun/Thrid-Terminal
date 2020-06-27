@@ -13,7 +13,7 @@ public class XTApplication extends Application {
 		super.onCreate();
 		InitXTMobileLibrary.getInstans(this).init();
 		mAppContext = this;
-		//打印地址
+	
 	}
 
 
